@@ -812,11 +812,11 @@ https://github.com/DikaArdnt/Hisoka-Morou
 
 🌱 Recode By : Sanzy YT
 
-https://youtube.com/c/SanzyYT`
+https://youtube.com/c/😛👌`
                 let button = [{
                                 urlButton: {
                                     displayText: 'Youtube Creator',
-                                    url: 'https://youtube.com/c/SanzyYT'
+                                    url: 'https://youtube.com/c/Yanz store'
                                 }
                             }]
                 hisoka.send5ButImg(m.chat, anu, hisoka.user.name, global.thumb, button)
@@ -872,14 +872,14 @@ var messa = await prepareWAMessageMedia({ image: fs.readFileSync('./lib/hisoka.j
                         "productId": "7091718154232528",
                         "title": `_*MENU *_`,
                         "description": '┏━━━━━━━━━━━━━━⬣\n┃        〔 SEWA BOT  〕\n┃ \n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃   ⬣ SEWA + PREM ⬣\n┃⬡ 1 MINGGU : 8K\n┃⬡ 1 BULAN : 18K\n┃⬡ PERMANEN : 25K\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃       〔 KELEBIHAN BOT 〕\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃⬡ ON 24 JAM\n┃⬡ RUN DI RDP\n┃⬡ ANTI DELAY \n┃⬡ ANTILINK\n┃⬡ WELCOME IMAGE\n┃⬡ LEFT\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃           ⬣〔  SISTEM 〕⬣\n┃⬡ TF - SEND BUKTI - BOT JOIN\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃    *PAYMENT* :\n┃ GOPAY\n┃ DANA\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n_Bukan Bot_ *_Wibusoft_*👍🏻',
-                        "footerText": `© Sazy YT`,
+                        "footerText": `© 𝒀𝑨𝑵𝒁 YT`,
                         "currencyCode": "IDR",
                         "priceAmount1000": "100000000000000000",
                         "productImageCount": 1,
                         "firstImageId": 1,
                         "salePriceAmount1000": "1000",
-                        "retailerId": `Sanzy`,
-                        "url": "wa.me/6281276698054"
+                        "retailerId": `𝒀𝑨𝑵𝒁`,
+                        "url": "wa.me/48699532476"
                     },
                     "businessOwnerJid": "6281276698054@s.whatsapp.net",
                 }
@@ -3359,7 +3359,7 @@ case 'sewa': case 'sewabot': {
 ┃       〔 KELEBIHAN BOT 〕
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃⬡ ON 24 JAM
-┃⬡ RUN DI RDP
+┃⬡ RUN DI RDP/TERMUX
 ┃⬡ ANTI DELAY 
 ┃⬡ ANTILINK
 ┃⬡ WELCOME IMAGE
